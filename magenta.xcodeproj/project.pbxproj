@@ -7,16 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		182544C525145D5E00F49842 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 182544C425145D5D00F49842 /* Default-568h@2x.png */; };
 		1881549C24E7914B00F64A48 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1881549B24E7914B00F64A48 /* AppDelegate.swift */; };
-		1881549E24E7914B00F64A48 /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = 1881549D24E7914B00F64A48 /* GameScene.sks */; };
-		188154A024E7914B00F64A48 /* Actions.sks in Resources */ = {isa = PBXBuildFile; fileRef = 1881549F24E7914B00F64A48 /* Actions.sks */; };
 		188154A224E7914B00F64A48 /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 188154A124E7914B00F64A48 /* GameScene.swift */; };
 		188154A424E7914B00F64A48 /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 188154A324E7914B00F64A48 /* GameViewController.swift */; };
 		188154A724E7914B00F64A48 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 188154A524E7914B00F64A48 /* Main.storyboard */; };
 		188154A924E7915400F64A48 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 188154A824E7915400F64A48 /* Assets.xcassets */; };
 		188154AC24E7915400F64A48 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 188154AA24E7915400F64A48 /* LaunchScreen.storyboard */; };
-		188154B724E7915400F64A48 /* BlushTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 188154B624E7915400F64A48 /* BlushTests.swift */; };
-		188154C224E7915400F64A48 /* BlushUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 188154C124E7915400F64A48 /* BlushUITests.swift */; };
 		18D43F6224E9FDAA00339896 /* MainMenuScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18D43F6124E9FDAA00339896 /* MainMenuScene.swift */; };
 /* End PBXBuildFile section */
 
@@ -38,22 +35,17 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		182544C425145D5D00F49842 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		1881549824E7914B00F64A48 /* Mangenta.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Mangenta.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1881549B24E7914B00F64A48 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		1881549D24E7914B00F64A48 /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
-		1881549F24E7914B00F64A48 /* Actions.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Actions.sks; sourceTree = "<group>"; };
 		188154A124E7914B00F64A48 /* GameScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameScene.swift; sourceTree = "<group>"; };
 		188154A324E7914B00F64A48 /* GameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameViewController.swift; sourceTree = "<group>"; };
 		188154A624E7914B00F64A48 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		188154A824E7915400F64A48 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		188154AB24E7915400F64A48 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		188154AD24E7915400F64A48 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		188154AD24E7915400F64A48 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; name = Info.plist; path = ../../../../../../../../Desktop/Magenta/Magenta/Info.plist; sourceTree = BUILT_PRODUCTS_DIR; };
 		188154B224E7915400F64A48 /* magentaTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = magentaTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		188154B624E7915400F64A48 /* BlushTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlushTests.swift; sourceTree = "<group>"; };
-		188154B824E7915400F64A48 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		188154BD24E7915400F64A48 /* magentaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = magentaUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		188154C124E7915400F64A48 /* BlushUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlushUITests.swift; sourceTree = "<group>"; };
-		188154C324E7915400F64A48 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		18D43F6124E9FDAA00339896 /* MainMenuScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainMenuScene.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -85,9 +77,8 @@
 		1881548F24E7914B00F64A48 = {
 			isa = PBXGroup;
 			children = (
-				1881549A24E7914B00F64A48 /* Blush */,
-				188154B524E7915400F64A48 /* BlushTests */,
-				188154C024E7915400F64A48 /* BlushUITests */,
+				182544C425145D5D00F49842 /* Default-568h@2x.png */,
+				1881549A24E7914B00F64A48 /* Magenta */,
 				1881549924E7914B00F64A48 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -102,12 +93,10 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		1881549A24E7914B00F64A48 /* Blush */ = {
+		1881549A24E7914B00F64A48 /* Magenta */ = {
 			isa = PBXGroup;
 			children = (
 				1881549B24E7914B00F64A48 /* AppDelegate.swift */,
-				1881549D24E7914B00F64A48 /* GameScene.sks */,
-				1881549F24E7914B00F64A48 /* Actions.sks */,
 				188154A124E7914B00F64A48 /* GameScene.swift */,
 				18D43F6124E9FDAA00339896 /* MainMenuScene.swift */,
 				188154A324E7914B00F64A48 /* GameViewController.swift */,
@@ -116,25 +105,7 @@
 				188154AA24E7915400F64A48 /* LaunchScreen.storyboard */,
 				188154AD24E7915400F64A48 /* Info.plist */,
 			);
-			path = Blush;
-			sourceTree = "<group>";
-		};
-		188154B524E7915400F64A48 /* BlushTests */ = {
-			isa = PBXGroup;
-			children = (
-				188154B624E7915400F64A48 /* BlushTests.swift */,
-				188154B824E7915400F64A48 /* Info.plist */,
-			);
-			path = BlushTests;
-			sourceTree = "<group>";
-		};
-		188154C024E7915400F64A48 /* BlushUITests */ = {
-			isa = PBXGroup;
-			children = (
-				188154C124E7915400F64A48 /* BlushUITests.swift */,
-				188154C324E7915400F64A48 /* Info.plist */,
-			);
-			path = BlushUITests;
+			path = Magenta;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -242,10 +213,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				188154A724E7914B00F64A48 /* Main.storyboard in Resources */,
-				1881549E24E7914B00F64A48 /* GameScene.sks in Resources */,
 				188154A924E7915400F64A48 /* Assets.xcassets in Resources */,
 				188154AC24E7915400F64A48 /* LaunchScreen.storyboard in Resources */,
-				188154A024E7914B00F64A48 /* Actions.sks in Resources */,
+				182544C525145D5E00F49842 /* Default-568h@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -281,7 +251,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				188154B724E7915400F64A48 /* BlushTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -289,7 +258,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				188154C224E7915400F64A48 /* BlushUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -448,7 +416,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = TQMQWQXT3G;
-				INFOPLIST_FILE = Blush/Info.plist;
+				INFOPLIST_FILE = Magenta/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -466,7 +434,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = TQMQWQXT3G;
-				INFOPLIST_FILE = Blush/Info.plist;
+				INFOPLIST_FILE = Magenta/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
